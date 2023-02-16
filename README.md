@@ -1,4 +1,4 @@
-# Linux Guide
+<h1 align="center"> 🚀 Linux Guide </h1>
 
 
 ## Contatos
