@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Linux Guide </h1>
+<h1 align="center"> 🚀 Linux </h1>
 
 # DEFINIÇÃO
 
